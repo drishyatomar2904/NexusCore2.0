@@ -1,0 +1,207 @@
+"Material","Component","Quantity","Unit Cost","Total Cost"
+"Aluminum","Wing Ribs",500,10.25,5125.00
+"Titanium","Engine Mounts",200,25.50,5100.00
+"Steel","Landing Gear",300,8.75,2625.00
+"Copper","Electrical Wiring",1000,5.00,5000.00
+"Carbon Fiber","Control Surfaces",400,30.00,12000.00
+"Aluminum","Fuel Tanks",250,12.50,3125.00
+"Titanium","Fasteners",1500,15.00,22500.00
+"Steel","Structural Beams",500,20.00,10000.00
+"Copper","Avionics",500,10.00,5000.00
+"Carbon Fiber","Aerodynamic Fairings",300,25.00,7500.00
+"Aluminum","Cabin Frames",400,18.00,7200.00
+"Titanium","Engine Components",1000,40.00,40000.00
+"Steel","Landing Gear Axles",200,30.00,6000.00
+"Copper","Electrical Connectors",2000,8.00,16000.00
+"Carbon Fiber","Wing Skins",600,35.00,21000.00
+"Aluminum","Door Frames",300,22.00,6600.00
+"Titanium","Fastener Inserts",1000,20.00,20000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Components",500,15.00,7500.00
+"Carbon Fiber","Ailerons",250,40.00,10000.00
+"Aluminum","Window Frames",200,18.00,3600.00
+"Titanium","Engine Mount Inserts",500,30.00,15000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Antennae",1000,12.00,12000.00
+"Carbon Fiber","Elevator Trim Tabs",150,35.00,5225.00
+"Aluminum","Cabin Linings",400,15.00,6000.00
+"Titanium","Engine Component Fasteners",2000,25.00,50000.00
+"Steel","Structural Beams",600,22.00,13200.00
+"Copper","Navigation Components",500,18.00,9000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Hinges",300,12.00,3600.00
+"Titanium","Fastener Coatings",1500,20.00,30000.00
+"Steel","Landing Gear Actuators",200,30.00,6000.00
+"Copper","Electrical Busbars",1000,15.00,15000.00
+"Carbon Fiber","Aileron Trim Tabs",150,35.00,5225.00
+"Aluminum","Window Frames",250,18.00,4500.00
+"Titanium","Engine Mount Fasteners",500,30.00,15000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Antennae",500,18.00,9000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Frames",300,20.00,6000.00
+"Titanium","Engine Component Inserts",1000,25.00,25000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Components",1000,12.00,12000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Hinges",300,12.00,3600.00
+"Titanium","Fastener Coatings",1500,20.00,30000.00
+"Steel","Structural Beams",600,22.00,13200.00
+"Copper","Navigation Components",500,18.00,9000.00
+"Carbon Fiber","Aileron Trim Tabs",150,35.00,5225.00
+"Aluminum","Window Frames",250,18.00,4500.00
+"Titanium","Engine Mount Fasteners",500,30.00,15000.00
+"Steel","Landing Gear Actuators",200,30.00,6000.00
+"Copper","Electrical Busbars",1000,15.00,15000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Linings",400,15.00,6000.00
+"Titanium","Engine Component Fasteners",2000,25.00,50000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Components",500,18.00,9000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Frames",300,22.00,6600.00
+"Titanium","Fastener Inserts",1000,20.00,20000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Antennae",1000,12.00,12000.00
+"Carbon Fiber","Ailerons",250,40.00,10000.00
+"Aluminum","Window Frames",200,18.00,3600.00
+"Titanium","Engine Mount Inserts",500,30.00,15000.00
+"Steel","Structural Beams",600,22.00,13200.00
+"Copper","Navigation Components",500,18.00,9000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Frames",400,20.00,8000.00
+"Titanium","Engine Component Fasteners",2000,25.00,50000.00
+"Steel","Landing Gear Actuators",200,30.00,6000.00
+"Copper","Electrical Busbars",1000,15.00,15000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Hinges",300,12.00,3600.00
+"Titanium","Fastener Coatings",1500,20.00,30000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Components",500,18.00,9000.00
+"Carbon Fiber","Aileron Trim Tabs",150,35.00,5225.00
+"Aluminum","Window Frames",250,18.00,4500.00
+"Titanium","Engine Mount Fasteners",500,30.00,15000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Components",1000,12.00,12000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Linings",400,15.00,6000.00
+"Titanium","Engine Component Inserts",1000,25.00,25000.00
+"Steel","Structural Beams",600,22.00,13200.00
+"Copper","Navigation Components",500,18.00,9000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Frames",300,22.00,6600.00
+"Titanium","Fastener Inserts",1000,20.00,20000.00
+"Steel","Landing Gear Actuators",200,30.00,6000.00
+"Copper","Electrical Busbars",1000,15.00,15000.00
+"Carbon Fiber","Ailerons",250,40.00,10000.00
+"Aluminum","Window Frames",200,18.00,3600.00
+"Titanium","Engine Mount Inserts",500,30.00,15000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Components",500,18.00,9000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Frames",400,20.00,8000.00
+"Titanium","Engine Component Fasteners",2000,25.00,50000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Antennae",1000,12.00,12000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Hinges",300,12.00,3600.00
+"Titanium","Fastener Coatings",1500,20.00,30000.00
+"Steel","Structural Beams",600,22.00,13200.00
+"Copper","Navigation Components",500,18.00,9000.00
+"Carbon Fiber","Aileron Trim Tabs",150,35.00,5225.00
+"Aluminum","Window Frames",250,18.00,4500.00
+"Titanium","Engine Mount Fasteners",500,30.00,15000.00
+"Steel","Landing Gear Actuators",200,30.00,6000.00
+"Copper","Electrical Busbars",1000,15.00,15000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Linings",400,15.00,6000.00
+"Titanium","Engine Component Inserts",1000,25.00,25000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Components",500,18.00,9000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Frames",300,22.00,6600.00
+"Titanium","Fastener Inserts",1000,20.00,20000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Components",1000,12.00,12000.00
+"Carbon Fiber","Ailerons",250,40.00,10000.00
+"Aluminum","Window Frames",200,18.00,3600.00
+"Titanium","Engine Mount Inserts",500,30.00,15000.00
+"Steel","Structural Beams",600,22.00,13200.00
+"Copper","Navigation Components",500,18.00,9000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Frames",400,20.00,8000.00
+"Titanium","Engine Component Fasteners",2000,25.00,50000.00
+"Steel","Landing Gear Actuators",200,30.00,6000.00
+"Copper","Electrical Busbars",1000,15.00,15000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Hinges",300,12.00,3600.00
+"Titanium","Fastener Coatings",1500,20.00,30000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Components",500,18.00,9000.00
+"Carbon Fiber","Aileron Trim Tabs",150,35.00,5225.00
+"Aluminum","Window Frames",250,18.00,4500.00
+"Titanium","Engine Mount Fasteners",500,30.00,15000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Antennae",1000,12.00,12000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Linings",400,15.00,6000.00
+"Titanium","Engine Component Inserts",1000,25.00,25000.00
+"Steel","Structural Beams",600,22.00,13200.00
+"Copper","Navigation Components",500,18.00,9000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Frames",300,22.00,6600.00
+"Titanium","Fastener Inserts",1000,20.00,20000.00
+"Steel","Landing Gear Actuators",200,30.00,6000.00
+"Copper","Electrical Busbars",1000,15.00,15000.00
+"Carbon Fiber","Ailerons",250,40.00,10000.00
+"Aluminum","Window Frames",200,18.00,3600.00
+"Titanium","Engine Mount Inserts",500,30.00,15000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Components",500,18.00,9000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Frames",400,20.00,8000.00
+"Titanium","Engine Component Fasteners",2000,25.00,50000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Components",1000,12.00,12000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Hinges",300,12.00,3600.00
+"Titanium","Fastener Coatings",1500,20.00,30000.00
+"Steel","Structural Beams",600,22.00,13200.00
+"Copper","Navigation Components",500,18.00,9000.00
+"Carbon Fiber","Aileron Trim Tabs",150,35.00,5225.00
+"Aluminum","Window Frames",250,18.00,4500.00
+"Titanium","Engine Mount Fasteners",500,30.00,15000.00
+"Steel","Landing Gear Actuators",200,30.00,6000.00
+"Copper","Electrical Busbars",1000,15.00,15000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Linings",400,15.00,6000.00
+"Titanium","Engine Component Inserts",1000,25.00,25000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Components",500,18.00,9000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Frames",300,22.00,6600.00
+"Titanium","Fastener Inserts",1000,20.00,20000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Antennae",1000,12.00,12000.00
+"Carbon Fiber","Ailerons",250,40.00,10000.00
+"Aluminum","Window Frames",200,18.00,3600.00
+"Titanium","Engine Mount Inserts",500,30.00,15000.00
+"Steel","Structural Beams",600,22.00,13200.00
+"Copper","Navigation Components",500,18.00,9000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Frames",400,20.00,8000.00
+"Titanium","Engine Component Fasteners",2000,25.00,50000.00
+"Steel","Landing Gear Actuators",200,30.00,6000.00
+"Copper","Electrical Busbars",1000,15.00,15000.00
+"Carbon Fiber","Rudder Pedals",100,40.00,4000.00
+"Aluminum","Door Hinges",300,12.00,3600.00
+"Titanium","Fastener Coatings",1500,20.00,30000.00
+"Steel","Structural Columns",400,25.00,10000.00
+"Copper","Radar Components",500,18.00,9000.00
+"Carbon Fiber","Aileron Trim Tabs",150,35.00,5225.00
+"Aluminum","Window Frames",250,18.00,4500.00
+"Titanium","Engine Mount Fasteners",500,30.00,15000.00
+"Steel","Landing Gear Struts",300,20.00,6000.00
+"Copper","Communication Components",1000,12.00,12000.00
+"Carbon Fiber","Elevator Trim Tabs",150,40.00,6000.00
+"Aluminum","Cabin Linings",400,15.00,600

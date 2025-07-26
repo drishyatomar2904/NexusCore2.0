@@ -1,0 +1,11 @@
+Material,Type,Density,Strength,Temperature_Range,Application
+Titanium,Alloy,4.54,900,Up to 600°C,Aerospace Industry
+Aluminum,Alloy,2.7,200,Up to 200°C,Aircraft Structures
+Copper,Element,8.96,220,Up to 100°C,Electrical Wiring
+Steel,Alloy,7.9,500,Up to 400°C,Structural Components
+Carbon Fiber,Composite,1.8,700,Up to 250°C,Aircraft Bodies
+Inconel,Alloy,8.4,650,Up to 1000°C,Turbine Blades
+Kevlar,Composite,1.4,350,Up to 200°C,Heat Shields
+Stainless Steel,Alloy,8.0,520,Up to 500°C,Fasteners
+Tungsten,Element,19.3,1500,Up to 3000°C,Nozzle Components
+Magnesium,Element,1.8,200,Up to 150°C,Aircraft Engine Mounts
