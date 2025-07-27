@@ -88,10 +88,47 @@ Visit `http://localhost:5000` in your browser.
 
 -----
 
-## 🛠 Built With
+##🛠 Built With
+A creative yet straightforward tech stack powers NexusCore, blending simplicity with advanced AI capabilities:
 
-A straightforward but creative tech stack powers **NexusCore**.  With its seamless drag-and-drop interface and live preview, the frontend—which was constructed with **HTML, CSS,** and **JavaScript** ,makes dataset generation quick and easy.  We built a **session-based processing pipeline** on the **backend** using **Flask** and **Python** to guarantee **isolated** and **responsive task execution**.  **Groq** and **LLaMA3-70B** are **integrated by the AI engine**, which uses **prompt chaining techniques** to create **structured CSV files** **dynamically based on user input**.  We handled documents by **accurately extracting text and tables** from **complex PDFs** using **PyPDF2** and **custom layout-aware logic**.
+🌐 Frontend
+Built for ease and interactivity with drag-and-drop support and live previews:
+
+HTML – Structural foundation
+
+CSS – Responsive styling
+
+JavaScript – Dynamic interaction handling
+
+🧠 AI Engine
+Empowered by powerful LLMs and prompt chaining for intelligent CSV generation:
+
+Groq – Ultra-fast inference backend
+
+LLaMA3-70B – Large language model for dataset creation
+
+Prompt Chaining – Enables structured, context-aware data generation
+
+⚙️ Backend
+Robust, session-based architecture to ensure responsive, isolated processing:
+
+Python – Core logic and AI integration
+
+Flask – Lightweight backend for handling API requests and sessions
+
+📄 Document Parsing
+Advanced PDF handling with layout awareness for accurate table extraction:
+
+PyPDF2 – PDF text parsing
+
+Custom Logic – Layout-aware parsing for complex documents
+
+🔐 Security
+Local Processing – No data leaves the user’s machine
+
+Session Isolation – Ensures safe and private interactions
 -----
+
 ## 🌍 Social Impact
 NexusCore is democratizing data access to empower underserved communities:
 
