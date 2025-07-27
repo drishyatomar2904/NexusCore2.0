@@ -162,8 +162,11 @@ Breaks down PDF and research data barriers
 
 
 ### 💖 Nonprofit Empowerment
+
 Provides free, code-free data tools to NGOs
 Example: Enabled small nonprofits to build data-backed impact reports without needing a data science team.
+
+
 -----
 
 **Transform your data workflow today**
